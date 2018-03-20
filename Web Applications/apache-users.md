@@ -1,6 +1,6 @@
 #### apache-users软件包描述
 
-这个[Perl](https://www.perl.org/)脚本会枚举系统中使用了[UserDir模块](https://httpd.apache.org/docs/2.4/mod/mod_userdir.html)的[Apache](https://httpd.apache.org/)服务器中的用户名。  
+这个[Perl](https://www.perl.org/)脚本会枚举使用了[UserDir模块](https://httpd.apache.org/docs/2.4/mod/mod_userdir.html)的[Apache](https://httpd.apache.org/)服务器的系统的用户名。  
 [apache-users Homepage](https://labs.portcullis.co.uk/) | [Kali apache-users Repo](http://git.kali.org/gitweb/?p=packages/apache-users.git;a=summary)
 
 * Author: Andy@Portcullis
